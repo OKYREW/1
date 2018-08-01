@@ -1502,10 +1502,17 @@ body {
   margin-top: 1rem;
   margin-bottom: 0;
 }
+.cid-qT5l9yQunb P {
+  text-align: center;
+}
 .cid-qZpUSGFjHv {
   padding-top: 15px;
   padding-bottom: 0px;
   background: linear-gradient(45deg, #1a1a1a, #1a1a1a);
+}
+.cid-qZpUSGFjHv .mbr-text,
+.cid-qZpUSGFjHv .mbr-section-btn {
+  text-align: center;
 }
 .cid-qZpVesVX0w {
   padding-top: 15px;
